@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.nexafinance01.twa",
+        "sha256_cert_fingerprints": ["1A:5A:63:D1:D8:3A:20:FF:7E:D6:D7:DF:43:21:E7:59:3E:1A:76:5E:94:43:5B:72:EB:9E:33:E1:E2:F5:76:1E"]
+      }
+    }]
